@@ -1,0 +1,34 @@
+{
+  "name": "phone-input-expo",
+  "version": "1.0.0",
+  "description": "Phone number input with country flags & calling codes for Expo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "iso-3166-1-alpha-2": "x.x.x.",
+    "country-flag-icons": "x.x.x.",
+    "libphonenumber-js": "x.x.x."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMatharoo/phone-input-expo.git"
+  },
+  "keywords": [
+    "Phone",
+    "Phone-Input",
+    "Country-Flags",
+    "Country",
+    "Calling-Code",
+    "Expo",
+    "Expo-Go",
+    "React"
+  ],
+  "author": "Aaron Matharoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMatharoo/phone-input-expo/issues"
+  },
+  "homepage": "https://github.com/AaronMatharoo/phone-input-expo#readme"
+}
